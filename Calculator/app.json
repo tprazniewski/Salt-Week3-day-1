@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Calculator",
-    "slug": "Calculator",
+    "name": "labOne",
+    "slug": "labOne",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
